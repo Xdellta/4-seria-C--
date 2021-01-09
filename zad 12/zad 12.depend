@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610185292 source:f:\jakieœ pliki\c++ szko³a\4-seria c--\zad 12\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+

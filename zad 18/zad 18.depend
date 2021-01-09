@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610193655 source:f:\jakieœ pliki\c++ szko³a\4-seria c--\zad 18\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<locale.h>
+	<cstdlib>
+
